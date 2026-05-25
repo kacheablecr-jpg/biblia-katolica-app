@@ -103,6 +103,47 @@ const PREGUNTAS: Pregunta[] = [
     conclusion:
       'La fe cristiana ha leído el relato de Jonás tanto como historia real como como signo profético de la resurrección. Jesús lo tomó en serio. Más allá del debate sobre el pez, el mensaje es poderoso: nadie escapa a la misericordia de Dios, y esa misericordia es para todos los pueblos.',
   },
+  {
+    id:        '3',
+    emoji:     '🖊️',
+    categoria: 'Fe y vida cotidiana',
+    pregunta:  '¿Qué dice la Biblia acerca de los tatuajes?',
+    intro:
+      'Hay un solo versículo en toda la Biblia que menciona los tatuajes directamente. Pero para entenderlo bien hay que conocer su contexto histórico y qué dice el Nuevo Testamento sobre el tema.',
+    puntos: [
+      {
+        titulo: 'El único versículo directo',
+        texto:
+          'En todo el texto bíblico solo hay un lugar que prohíbe explícitamente los tatuajes. Está en Levítico, el libro de las leyes que Dios dio al pueblo de Israel.',
+        cita: '«No se hagan heridas en el cuerpo por causa de los muertos, ni se hagan tatuajes. Yo soy el Señor.»\n— Levítico 19:28',
+      },
+      {
+        titulo: '¿Por qué esa ley? El contexto lo cambia todo',
+        texto:
+          'Los pueblos vecinos de Israel (egipcios, cananeos) usaban cortes en la piel y tatuajes como parte de rituales de luto y de adoración a ídolos. Dios le decía a Israel: "No hagan lo que hacen esos pueblos en su religión pagana." La prohibición no era sobre el arte corporal en general, sino sobre imitar prácticas de idolatría.',
+      },
+      {
+        titulo: '¿Esa ley sigue vigente para los cristianos?',
+        texto:
+          'Levítico 19 también prohíbe mezclar semillas en un mismo campo, cortar el cabello en las sienes y usar ropa de dos telas distintas. Los cristianos no siguen esas leyes ceremoniales porque Jesús vino a cumplir la Ley, no a imponerla como condición de salvación. El Nuevo Testamento enseña que ya no estamos bajo esa tutela.',
+        cita: '«Cristo nos redimió de la maldición de la ley.»\n— Gálatas 3:13',
+      },
+      {
+        titulo: 'Lo que sí aplica hoy: tu cuerpo es templo',
+        texto:
+          'Aunque la ley ceremonial no aplica igual, el Nuevo Testamento sí enseña que el creyente debe honrar a Dios con su cuerpo. Esta es la pregunta relevante hoy: ¿el tatuaje que quiero hacerme glorifica a Dios o lo contradice? ¿Cuál es mi motivo?',
+        cita: '«¿O no saben que su cuerpo es templo del Espíritu Santo, que está en ustedes? Por lo tanto, honren a Dios con su cuerpo.»\n— 1 Corintios 6:19-20',
+      },
+      {
+        titulo: '¿Es pecado hacerse un tatuaje?',
+        texto:
+          'La Biblia no lo condena directamente en el contexto cristiano. La mayoría de teólogos y la Iglesia Católica no prohíben los tatuajes como tal. Lo que sí importa es el contenido (¿qué representa?), el motivo (¿vanidad extrema, presión social, o algo significativo?) y si en tu conciencia lo sientes como algo que honra o deshonra a Dios.',
+        cita: '«Todo me es permitido, pero no todo conviene.»\n— 1 Corintios 10:23',
+      },
+    ],
+    conclusion:
+      'La Biblia tiene un versículo contra los tatuajes (Lev 19:28), pero estaba dirigido a prácticas de idolatría pagana específicas de esa época. En el Nuevo Testamento no hay prohibición explícita. La pregunta cristiana relevante hoy es: ¿glorifica esto a Dios? El contenido, el motivo y la conciencia son lo que más importa.',
+  },
 ]
 
 export default function PreguntasScreen() {
