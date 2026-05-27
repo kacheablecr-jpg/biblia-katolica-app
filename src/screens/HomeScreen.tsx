@@ -14,8 +14,8 @@ const BASE_URL = 'https://pos-one-backend.onrender.com/api/biblia-app'
 const PAGINA_URL = 'https://pos-one-backend.onrender.com/biblia'
 const INSTALL_KEY = 'biblia_install_registered'
 const CURRENT_VERSION = 'v1.5.0'
-const GITHUB_RELEASES_API = 'https://api.github.com/repos/kacheablecr-jpg/biblia-katolica-app/releases/latest'
-const DOWNLOAD_URL = 'https://github.com/kacheablecr-jpg/biblia-katolica-app/releases/latest/download/palabra-viva.apk'
+const GITHUB_RELEASES_API = 'https://api.github.com/repos/kacheablecr-jpg/biblia-catolica-app/releases/latest'
+const DOWNLOAD_URL = 'https://github.com/kacheablecr-jpg/biblia-catolica-app/releases/latest/download/palabra-viva.apk'
 
 async function compartir() {
   await Share.share({
