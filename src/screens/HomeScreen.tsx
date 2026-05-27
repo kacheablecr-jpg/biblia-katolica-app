@@ -13,7 +13,7 @@ const COLORES = { fondo: '#0f172a', card: '#1e293b', texto: '#f1f5f9', subTexto:
 const BASE_URL = 'https://pos-one-backend.onrender.com/api/biblia-app'
 const PAGINA_URL = 'https://pos-one-backend.onrender.com/biblia'
 const INSTALL_KEY = 'biblia_install_registered'
-const CURRENT_VERSION = 'v1.6.0'
+const CURRENT_VERSION = 'v1.7.0'
 const GITHUB_RELEASES_API = 'https://api.github.com/repos/kacheablecr-jpg/biblia-catolica-app/releases/latest'
 const DOWNLOAD_URL = 'https://github.com/kacheablecr-jpg/biblia-catolica-app/releases/latest/download/palabra-viva.apk'
 
@@ -234,6 +234,16 @@ export default function HomeScreen() {
               <Text style={s.rutaBtnFlecha}>›</Text>
             </TouchableOpacity>
 
+            {/* Busca la Alegría */}
+            <TouchableOpacity style={s.alegriasBtn} onPress={() => nav.navigate('Alegrias')} activeOpacity={0.8}>
+              <Text style={s.rutaBtnIcon}>😊</Text>
+              <View style={{ flex: 1 }}>
+                <Text style={s.alegriasBtnTitulo}>Busca la Alegría</Text>
+                <Text style={s.alegriasBtnSub}>Propósito · Perdón · Esperanza · Amor y más</Text>
+              </View>
+              <Text style={s.rutaBtnFlecha}>›</Text>
+            </TouchableOpacity>
+
             {/* Búsqueda */}
             <View style={s.searchBox}>
               <TextInput
@@ -288,6 +298,9 @@ const s = StyleSheet.create({
   oracionTitulo:    { color: '#fbbf24', fontSize: 13, fontWeight: '700', textTransform: 'uppercase', letterSpacing: 1, marginBottom: 12 },
   oracionTexto:     { color: '#fef3c7', fontSize: 15, lineHeight: 24, fontStyle: 'italic', textAlign: 'center' },
   oracionCita:      { color: '#f59e0b', fontSize: 12, textAlign: 'right', marginTop: 10 },
+  alegriasBtn:          { marginHorizontal: 16, marginBottom: 16, backgroundColor: '#052e16', borderRadius: 16, padding: 16, flexDirection: 'row', alignItems: 'center', gap: 12, borderWidth: 1, borderColor: '#166534' },
+  alegriasBtnTitulo:    { color: '#bbf7d0', fontWeight: '700', fontSize: 15 },
+  alegriasBtnSub:       { color: '#4ade80', fontSize: 12, marginTop: 2 },
   preguntasBtn:         { marginHorizontal: 16, marginBottom: 16, backgroundColor: '#451a03', borderRadius: 16, padding: 16, flexDirection: 'row', alignItems: 'center', gap: 12, borderWidth: 1, borderColor: '#78350f' },
   preguntasBtnTitulo:   { color: '#fde68a', fontWeight: '700', fontSize: 15 },
   preguntasBtnSub:      { color: '#fbbf24', fontSize: 12, marginTop: 2 },

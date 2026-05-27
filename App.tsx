@@ -10,6 +10,7 @@ import RutaDetalleScreen from './src/screens/RutaDetalleScreen'
 import EmocioneScreen    from './src/screens/EmocioneScreen'
 import AcercaDeScreen   from './src/screens/AcercaDeScreen'
 import PreguntasScreen  from './src/screens/PreguntasScreen'
+import AlegriasScreen  from './src/screens/AlegriasScreen'
 
 const Stack = createNativeStackNavigator()
 
@@ -26,6 +27,7 @@ export default function App() {
         <Stack.Screen name="Emociones"  component={EmocioneScreen} />
         <Stack.Screen name="AcercaDe"   component={AcercaDeScreen} />
         <Stack.Screen name="Preguntas"  component={PreguntasScreen} />
+        <Stack.Screen name="Alegrias"   component={AlegriasScreen} />
       </Stack.Navigator>
     </NavigationContainer>
     </SafeAreaProvider>
