@@ -266,6 +266,48 @@ const EMOCIONES: Ruta[] = [
       { libroId: 58, libroNombre: 'Efesios',     capitulo: 3,  versiculoInicio: 14, versiculoFin: 21, descripcion: '"Pido que los fortalezca con poder por su Espíritu en el hombre interior"' },
     ],
   },
+  {
+    id: 'emociones',
+    titulo: 'Gestionar las emociones',
+    descripcion: 'Cuando no sabes qué hacer con lo que sientes',
+    emoji: '🧠',
+    color: '#0d9488',
+    pasajes: [
+      { libroId: 52, libroNombre: 'San Juan',    capitulo: 11, versiculoInicio: 33, versiculoFin: 36, descripcion: '"Jesús lloró" — Dios mismo sintió dolor y lo expresó. Las emociones no son pecado' },
+      { libroId: 58, libroNombre: 'Efesios',     capitulo: 4,  versiculoInicio: 26, versiculoFin: 27, descripcion: '"Si se enojan, no pequéis. No dejen que el sol se ponga estando aún enojados"' },
+      { libroId: 59, libroNombre: 'Filipenses',  capitulo: 4,  versiculoInicio: 6,  versiculoFin: 7,  descripcion: '"En todo... presenten sus peticiones a Dios. Y la paz de Dios cuidará sus corazones"' },
+      { libroId: 20, libroNombre: 'Proverbios',  capitulo: 4,  versiculoInicio: 23, versiculoFin: 23, descripcion: '"Por encima de todo lo que guardes, cuida tu corazón, porque de él mana la vida"' },
+      { libroId: 19, libroNombre: 'Salmos',      capitulo: 62, versiculoInicio: 8,  versiculoFin: 8,  descripcion: '"Confía en él en todo tiempo... derrama tu corazón delante de él"' },
+    ],
+  },
+  {
+    id: 'ira_ninos',
+    titulo: 'Ira hacia un niño',
+    descripcion: 'Cuando la frustración se convierte en algo que lastima',
+    emoji: '🛡️',
+    color: '#b91c1c',
+    pasajes: [
+      { libroId: 50, libroNombre: 'San Marcos',  capitulo: 9,  versiculoInicio: 42, versiculoFin: 42, descripcion: '"El que haga pecar a uno de estos pequeños... mejor le sería que le atasen una piedra de molino al cuello"' },
+      { libroId: 49, libroNombre: 'San Mateo',   capitulo: 18, versiculoInicio: 1,  versiculoFin: 5,  descripcion: '"El que reciba a un niño en mi nombre, a mí me recibe" — los niños como imagen de Dios' },
+      { libroId: 58, libroNombre: 'Efesios',     capitulo: 6,  versiculoInicio: 4,  versiculoFin: 4,  descripcion: '"Padres, no provoquéis a ira a vuestros hijos, sino criadlos en disciplina y amonestación del Señor"' },
+      { libroId: 71, libroNombre: '1 Juan',      capitulo: 4,  versiculoInicio: 20, versiculoFin: 21, descripcion: '"El que no ama a su hermano a quien ve, ¿cómo puede amar a Dios a quien no ve?"' },
+      { libroId: 19, libroNombre: 'Salmos',      capitulo: 127, versiculoInicio: 3, versiculoFin: 3,  descripcion: '"Los hijos son una herencia del Señor; los frutos del vientre, una recompensa"' },
+    ],
+  },
+  {
+    id: 'paternidad',
+    titulo: 'Incertidumbre del padre',
+    descripcion: 'Cuando no sabes quién es tu padre — o si un hijo es tuyo',
+    emoji: '👨‍👦',
+    color: '#4f46e5',
+    pasajes: [
+      { libroId: 24, libroNombre: 'Jeremías',    capitulo: 1,   versiculoInicio: 5,  versiculoFin: 5,  descripcion: '"Antes que te formara en el vientre te conocí" — tu identidad la fija Dios, no la biología' },
+      { libroId: 19, libroNombre: 'Salmos',      capitulo: 139, versiculoInicio: 13, versiculoFin: 16, descripcion: '"Tú formaste mis entrañas... fui formado en lo más recóndito de la tierra"' },
+      { libroId: 19, libroNombre: 'Salmos',      capitulo: 27,  versiculoInicio: 10, versiculoFin: 10, descripcion: '"Aunque mi padre y mi madre me dejaran, el Señor me recogerá"' },
+      { libroId: 52, libroNombre: 'San Juan',    capitulo: 1,   versiculoInicio: 12, versiculoFin: 13, descripcion: '"A todos los que lo recibieron... les dio el derecho de ser hijos de Dios"' },
+      { libroId: 54, libroNombre: 'Romanos',     capitulo: 8,   versiculoInicio: 15, versiculoFin: 16, descripcion: '"Han recibido el espíritu de adopción, por el cual clamamos: ¡Abba, Padre!"' },
+    ],
+  },
 ]
 
 export default function EmocioneScreen() {

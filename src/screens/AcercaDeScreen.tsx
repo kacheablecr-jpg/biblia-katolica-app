@@ -44,7 +44,7 @@ export default function AcercaDeScreen() {
         <View style={s.heroBox}>
           <Text style={s.heroEmoji}>✝</Text>
           <Text style={s.heroTitulo}>Palabra Viva</Text>
-          <Text style={s.heroVersion}>Versión 2.0.0  •  DHH Edición Internacional</Text>
+          <Text style={s.heroVersion}>Versión 2.1.0  •  DHH Edición Internacional</Text>
         </View>
 
         {/* Traducción */}
@@ -67,7 +67,7 @@ export default function AcercaDeScreen() {
             ['27', 'del Nuevo Testamento'],
             ['35,887', 'versículos en total'],
             ['16', 'rutas temáticas'],
-            ['18', 'guías por estado emocional'],
+            ['21', 'guías por estado emocional'],
           ].map(([num, desc]) => (
             <View key={num + desc} style={s.statRow}>
               <Text style={s.statNum}>{num}</Text>

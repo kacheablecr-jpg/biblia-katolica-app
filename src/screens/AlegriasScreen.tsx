@@ -401,6 +401,48 @@ const ALEGRIAS: Alegria[] = [
       '«La gracia de Dios se ha manifestado para traer salvación a todos, enseñándonos que... vivamos justa y piadosamente en este mundo presente.»\n— Tito 2:11-12',
   },
   {
+    id:       '12',
+    emoji:    '🪙',
+    titulo:   '¿Cómo manejar bien el dinero?',
+    subtitulo:'La Biblia tiene sabiduría práctica para administrar lo que Dios te da',
+    intro:
+      'La Biblia habla del dinero más de 800 veces — más que de la fe y la oración juntas. Dios no es indiferente a tu economía. Lo que enseña no es que seas rico ni que seas pobre, sino que seas fiel.',
+    puntos: [
+      {
+        titulo: 'El dinero es una herramienta, no un señor',
+        texto:
+          'Jesús no dijo que el dinero es malo — dijo que no se puede servir a dos señores a la vez. El dinero es un excelente siervo pero un pésimo amo. El problema no es tenerlo, sino lo que te hace cuando lo buscas como fin.',
+        cita: '«Nadie puede servir a dos señores... No pueden servir a Dios y al dinero.»\n— Mateo 6:24',
+      },
+      {
+        titulo: 'La fidelidad en lo poco — la base de todo',
+        texto:
+          'Jesús enseñó que quien es fiel en lo poco, también lo será en lo mucho. No hay un umbral mínimo de ingresos para aprender a administrar bien. La disciplina financiera no empieza cuando ganas más — empieza hoy, con lo que tienes.',
+        cita: '«El que es fiel en lo muy poco, también en lo más es fiel.»\n— Lucas 16:10',
+      },
+      {
+        titulo: 'El sabio guarda; el necio lo consume todo',
+        texto:
+          'Proverbios describe dos actitudes ante el dinero: el sabio que guarda y planifica, y el necio que gasta todo sin pensar. El ahorro no es desconfianza en Dios — es administración responsable de lo que Él ha dado.',
+        cita: '«Tesoro precioso y aceite hay en la morada del sabio; mas el hombre insensato todo lo disipa.»\n— Proverbios 21:20',
+      },
+      {
+        titulo: 'Cómo crece bien el dinero — despacio y con trabajo',
+        texto:
+          'La Biblia advierte contra la riqueza rápida. Lo que se construye poco a poco, con trabajo y honradez, se sostiene. Lo que llega de golpe suele irse de golpe. La paciencia y la constancia son principios financieros bíblicos.',
+        cita: '«Las riquezas de vanidad disminuirán; pero el que recoge con mano laboriosa las aumenta.»\n— Proverbios 13:11',
+      },
+      {
+        titulo: 'La riqueza bien usada — generosidad y eternidad',
+        texto:
+          'Pablo instruye a los ricos a no poner su esperanza en el dinero, sino a ser ricos en buenas obras. El dinero bien administrado no termina solo en cuentas de banco — termina invertido en personas y en causas eternas.',
+        cita: '«A los ricos en este siglo... que hagan bien, que sean ricos en buenas obras, dadivosos, generosos.»\n— 1 Timoteo 6:17-18',
+      },
+    ],
+    promesa:
+      '«El que siembra escasamente, también segará escasamente; y el que siembra generosamente, generosamente también segará.»\n— 2 Corintios 9:6',
+  },
+  {
     id:       '10',
     emoji:    '🌟',
     titulo:   'La alegría de la esperanza',

@@ -1047,6 +1047,137 @@ const PREGUNTAS: Pregunta[] = [
     mensaje:
       'Cuando das con alegría, no estás perdiendo algo — estás practicando la mayor libertad posible: la libertad de no estar atado a lo material. El dador alegre no es el que tiene más, sino el que confía más. Dar es un acto de fe: creer que Dios proveerá lo que necesitas aunque hayas dado lo que tenías.',
   },
+  {
+    id:        '27',
+    emoji:     '🔗',
+    categoria: 'Fe y vida cotidiana',
+    pregunta:  '¿Heredamos los pecados de generaciones pasadas?',
+    intro:
+      'Hay versículos que parecen decir que sí, y versículos que parecen decir que no. La tensión entre Éxodo 20:5 y Ezequiel 18:20 ha desconcertado a lectores durante siglos. La respuesta depende de una distinción crucial que la misma Biblia hace.',
+    puntos: [
+      {
+        titulo: 'El versículo que asusta — Éxodo 20:5',
+        texto:
+          'Cuando Dios dio los Diez Mandamientos, añadió que visitará la maldad de los padres sobre los hijos hasta la tercera y cuarta generación. Suena a que los hijos pagan por los pecados del padre. Pero el mismo contexto dice "de los que me aborrecen" — es decir, de los que continúan el camino del padre, no de cualquier descendiente.',
+        cita: '«...visitando la maldad de los padres sobre los hijos hasta la tercera y cuarta generación de los que me aborrecen.»\n— Éxodo 20:5',
+      },
+      {
+        titulo: 'Ezequiel lo aclara con fuerza',
+        texto:
+          'Ezequiel 18 es uno de los capítulos más explícitos sobre la responsabilidad moral individual. Dios dice claramente que el hijo no cargará con la iniquidad del padre, ni el padre con la del hijo. Cada persona responde por sus propias acciones.',
+        cita: '«El alma que pecare, esa morirá; el hijo no llevará el pecado del padre, ni el padre llevará el pecado del hijo.»\n— Ezequiel 18:20',
+      },
+      {
+        titulo: 'Jesús habló directamente del tema',
+        texto:
+          'Cuando los discípulos vieron a un ciego de nacimiento le preguntaron: ¿quién pecó, él o sus padres? Jesús rechazó ambas opciones. La condición de ese hombre no era castigo por pecados de generaciones anteriores — era una oportunidad para que se manifestara la obra de Dios.',
+        cita: '«No es que pecó éste, ni sus padres, sino para que las obras de Dios se manifiesten en él.»\n— Juan 9:3',
+      },
+      {
+        titulo: 'Lo que sí heredamos — el pecado original',
+        texto:
+          'La Biblia sí enseña que heredamos algo de Adán: no la culpa de su acto específico, sino una naturaleza humana herida. Somos propensos al error, débiles para el bien, inclinados al mal. Eso no es castigo — es la condición en que nacemos todos, y de la cual Cristo vino a liberarnos.',
+        cita: '«Por tanto, así como el pecado entró en el mundo por un hombre... la muerte pasó a todos los hombres, por cuanto todos pecaron.»\n— Romanos 5:12',
+      },
+      {
+        titulo: 'La distinción clave: consecuencias vs. culpa',
+        texto:
+          'Hay una diferencia importante entre heredar las consecuencias de los pecados de tus padres (patrones de conducta, traumas, vulnerabilidades emocionales) y cargar con la culpa moral de lo que ellos hicieron. Lo primero es real y hay que trabajarlo. Lo segundo no existe — Dios juzga a cada persona por sus propias acciones.',
+      },
+    ],
+    conclusion:
+      'La Biblia distingue claramente entre consecuencias heredadas y culpa heredada. Heredamos una naturaleza humana inclinada al mal (pecado original) y podemos cargar con consecuencias de patrones familiares. Pero Dios juzga a cada persona por sus propias obras — no por las de sus padres. Ezequiel 18 y Juan 9 lo dejan sin ambigüedad.',
+    mensaje:
+      'No cargas el peso de lo que hicieron tus padres o abuelos. Su culpa es de ellos; la tuya es tuya. Pero más importante aún: en Cristo, incluso lo tuyo puede ser limpiado. No hay cadena generacional que la gracia de Dios no pueda romper. Si hay patrones dañinos en tu familia, el ciclo puede terminar contigo.',
+  },
+  {
+    id:        '28',
+    emoji:     '📉',
+    categoria: 'Fe y vida cotidiana',
+    pregunta:  '¿Dice la Biblia que el mundo se iría degradando moralmente?',
+    intro:
+      'Antes ciertas cosas eran consideradas graves y hoy se normalizan. ¿Hay algo en la Biblia sobre esta progresiva inversión de valores? La respuesta es sí — y es sorprendentemente específica.',
+    puntos: [
+      {
+        titulo: '2 Timoteo 3 — el diagnóstico más detallado',
+        texto:
+          'Pablo describe los "tiempos peligrosos" de los últimos días con una lista que suena asombrosamente contemporánea: amadores de sí mismos, amadores del dinero, jactanciosos, soberbios, desobedientes a los padres, ingratos, impíos, sin amor natural. Y añade algo clave: tendrán apariencia de piedad, pero negarán la eficacia de ella.',
+        cita: '«En los postreros días vendrán tiempos peligrosos. Porque habrá hombres amadores de sí mismos... tendrán apariencia de piedad, pero negarán la eficacia de ella.»\n— 2 Timoteo 3:1-5',
+      },
+      {
+        titulo: 'Romanos 1 — el mecanismo de la degradación',
+        texto:
+          'Pablo no solo describe el fenómeno, sino el proceso: cuando la humanidad rechazó a Dios y cambió la verdad por la mentira, Dios los entregó a la degradación de sus propios deseos. La degradación moral no es solo un problema cultural — es la consecuencia de alejar a Dios del centro de la vida.',
+        cita: '«Y como ellos no aprobaron tener en cuenta a Dios, Dios los entregó a una mente reprobada, para hacer cosas que no convienen.»\n— Romanos 1:28',
+      },
+      {
+        titulo: 'Isaías 5:20 — llamar bien al mal',
+        texto:
+          'Isaías describe algo que resuena con fuerza hoy: el momento en que una cultura invierte los valores y llama al mal bien y al bien mal. No es solo que el mal existe — es que se celebra y se institucionaliza, y quien señala que es mal queda como el problema.',
+        cita: '«¡Ay de los que llaman al mal bien, y al bien mal; que hacen de la luz tinieblas, y de las tinieblas luz!»\n— Isaías 5:20',
+      },
+      {
+        titulo: 'Jesús lo anticipó',
+        texto:
+          'Jesús mismo dijo que en los últimos tiempos, por el aumento de la maldad, el amor de muchos se enfriaría. No como fatalismo, sino como descripción honesta del mundo sin Dios en el centro. Y a pesar de eso, añadió que el que persevere hasta el fin será salvo.',
+        cita: '«Y por haberse multiplicado la maldad, el amor de muchos se enfriará. Mas el que persevere hasta el fin, este será salvo.»\n— Mateo 24:12-13',
+      },
+      {
+        titulo: 'La respuesta: no juzgar, sino ser diferente',
+        texto:
+          'La Biblia no llama al creyente a indignarse ni a condenar al mundo. Lo llama a ser sal y luz. Sal que no se ha vuelto insípida. Luz que alumbra en la oscuridad. La forma de responder a la degradación moral no es la queja — es la vida distinta.',
+        cita: '«Ustedes son la sal de la tierra... Ustedes son la luz del mundo.»\n— Mateo 5:13-14',
+      },
+    ],
+    conclusion:
+      'La Biblia sí describe una degradación moral progresiva, especialmente en los textos proféticos y en las cartas de Pablo. No es pesimismo — es diagnóstico. Y el diagnóstico tiene también el remedio: el que permanece en Cristo no es arrastrado por esa corriente. El mundo se puede estar oscureciendo; eso solo hace más necesaria la luz.',
+    mensaje:
+      'Vivir en un mundo que cambia sus valores no te hace obsoleto — te hace necesario. La sal no se queja del podrido; lo preserva. La luz no lamenta la oscuridad; la ilumina. Si el mundo se degrada moralmente, la pregunta no es "¿qué está pasando?" sino "¿cómo vivo yo diferente?"',
+  },
+  {
+    id:        '29',
+    emoji:     '💬',
+    categoria: 'Sacramentos',
+    pregunta:  '¿Qué dice la Biblia sobre confesarse con un sacerdote?',
+    intro:
+      'La confesión sacramental es una de las prácticas más incomprendidas del catolicismo. ¿Tiene base bíblica? ¿Puede un sacerdote perdonar pecados? ¿Por qué no confesarse directamente con Dios? Las respuestas dependen de varios textos que vale conocer.',
+    puntos: [
+      {
+        titulo: 'Jesús dio el poder de perdonar a los apóstoles',
+        texto:
+          'La noche de la resurrección, Jesús se apareció a los apóstoles, sopló sobre ellos y les dijo: "Recibid el Espíritu Santo. A quienes perdonéis los pecados, les serán perdonados." Este texto es la base bíblica directa del sacramento: no es el sacerdote el que perdona por su propia autoridad, sino en nombre de Cristo.',
+        cita: '«Recibid el Espíritu Santo. A quienes remitiereis los pecados, les son remitidos; y a quienes se los retuviereis, les son retenidos.»\n— Juan 20:22-23',
+      },
+      {
+        titulo: 'Santiago: "Confesaos unos a otros"',
+        texto:
+          'Santiago 5:16 habla de confesar los pecados unos a otros en el contexto de oración por la sanación. Es la práctica de confesar ante otro ser humano — no solo internamente ante Dios. Esto muestra que la dimensión comunitaria de la confesión tiene base bíblica.',
+        cita: '«Confesaos vuestras ofensas unos a otros, y orad unos por otros, para que seáis sanados.»\n— Santiago 5:16',
+      },
+      {
+        titulo: 'El sacerdocio como instrumento de reconciliación',
+        texto:
+          'En el Antiguo Testamento, la expiación por los pecados se realizaba mediante sacrificios ante el sacerdote. El Nuevo Testamento afirma que Cristo es el Sumo Sacerdote definitivo, y que los ministros de la Iglesia participan de ese ministerio de reconciliación en su nombre.',
+        cita: '«Porque no tenemos un Sumo Sacerdote que no pueda compadecerse de nuestras debilidades.»\n— Hebreos 4:15',
+      },
+      {
+        titulo: 'David se confesó directamente con Dios',
+        texto:
+          'El Salmo 51 es la confesión directa de David a Dios tras su pecado. No hay sacerdote en ese texto. La confesión personal y directa con Dios es bíblica, poderosa y válida. La Iglesia Católica también la enseña — la confesión sacramental no la reemplaza sino que la complementa con la certeza del perdón declarado.',
+        cita: '«Contra ti, contra ti solo he pecado, y he hecho lo malo delante de tus ojos.»\n— Salmo 51:4',
+      },
+      {
+        titulo: 'El valor de escuchar el perdón dicho en voz alta',
+        texto:
+          'El ser humano no solo necesita saber que Dios perdona — a veces necesita escucharlo dicho con palabras claras. La confesión sacramental no añade nada al perdón de Dios, pero lo hace audible y concreto. "Tus pecados te son perdonados" — Jesús lo dijo en voz alta a las personas que lo necesitaban.',
+        cita: '«Entonces Jesús le dijo: Tus pecados te son perdonados.»\n— Lucas 7:48',
+      },
+    ],
+    conclusion:
+      'La confesión sacramental tiene base bíblica sólida: Juan 20:22-23 da el poder de perdonar directamente a los apóstoles; Santiago 5:16 habla de confesar ante otros; el sacerdocio del AT prefigura el ministerio cristiano. La confesión directa a Dios (Sal 51) también es bíblica. Las dos coexisten; la sacramental añade la certeza de escuchar el perdón declarado en nombre de Cristo.',
+    mensaje:
+      'Dios perdonó a David cuando confesó en soledad. Jesús perdonó a la mujer en público. El arrepentimiento sincero nunca queda sin respuesta, sin importar dónde ni cómo se haga. Si dudas sobre la confesión, recuerda: lo que importa no es el método — es el corazón que se vuelve a Dios con verdad.',
+  },
 ]
 
 function buildTexto(p: Pregunta): string {
