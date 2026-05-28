@@ -11,7 +11,8 @@ import EmocioneScreen    from './src/screens/EmocioneScreen'
 import AcercaDeScreen   from './src/screens/AcercaDeScreen'
 import PreguntasScreen  from './src/screens/PreguntasScreen'
 import AlegriasScreen  from './src/screens/AlegriasScreen'
-import MitosScreen     from './src/screens/MitosScreen'
+import MitosScreen          from './src/screens/MitosScreen'
+import MandamientosScreen   from './src/screens/MandamientosScreen'
 
 const Stack = createNativeStackNavigator()
 
@@ -29,7 +30,8 @@ export default function App() {
         <Stack.Screen name="AcercaDe"   component={AcercaDeScreen} />
         <Stack.Screen name="Preguntas"  component={PreguntasScreen} />
         <Stack.Screen name="Alegrias"   component={AlegriasScreen} />
-        <Stack.Screen name="Mitos"      component={MitosScreen} />
+        <Stack.Screen name="Mitos"          component={MitosScreen} />
+        <Stack.Screen name="Mandamientos"   component={MandamientosScreen} />
       </Stack.Navigator>
     </NavigationContainer>
     </SafeAreaProvider>

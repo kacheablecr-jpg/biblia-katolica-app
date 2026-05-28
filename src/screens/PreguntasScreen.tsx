@@ -754,6 +754,211 @@ const PREGUNTAS: Pregunta[] = [
     mensaje:
       'Encomienda a tus seres queridos que partieron a la misericordia de Dios. Él los conoce mejor de lo que tú los conoces, y los ama más de lo que tú puedes amarlos. La fe no te pide certezas que no tienes — te pide que descanses en Aquel que sí las tiene. Y ese Dios es bueno.',
   },
+  {
+    id:        '20',
+    emoji:     '🙏',
+    categoria: 'Fe y vida cotidiana',
+    pregunta:  '¿Cómo tener fe y cómo aumentarla?',
+    intro:
+      'La fe es el corazón de la vida cristiana. Pero muchos creyentes tienen una pregunta sincera: ¿tengo poca fe, cómo la obtengo, cómo la hago crecer? La Biblia tiene respuestas concretas, no solo inspiracionales.',
+    puntos: [
+      {
+        titulo: '¿Qué es la fe según la Biblia?',
+        texto:
+          'La fe no es un sentimiento de seguridad ni una emoción positiva. La Biblia la define como convicción profunda de realidades que no se ven. Es apostar la vida a que Dios es quien dice ser.',
+        cita: '«La fe es la certeza de lo que se espera, la convicción de lo que no se ve.»\n— Hebreos 11:1',
+      },
+      {
+        titulo: 'La fe viene de oír la Palabra',
+        texto:
+          'La ruta más directa para que la fe crezca es la más simple: escuchar y leer la Biblia. No como ejercicio intelectual, sino como alimento. Cada vez que la Palabra entra, la fe tiene más dónde crecer.',
+        cita: '«La fe es por el oír, y el oír, por la palabra de Dios.»\n— Romanos 10:17',
+      },
+      {
+        titulo: 'La fe crece en las dificultades',
+        texto:
+          'Paradójicamente, las pruebas no destruyen la fe — la fortalecen. La fe que solo funciona cuando todo va bien no es fe todavía. Las dificultades son el entrenamiento que convierte la creencia en convicción.',
+        cita: '«Tened por sumo gozo cuando os encontréis en diversas pruebas, sabiendo que la prueba de vuestra fe produce paciencia.»\n— Santiago 1:2-3',
+      },
+      {
+        titulo: 'La oración honesta: "¡Ayuda mi incredulidad!"',
+        texto:
+          'Un padre desesperado le pidió a Jesús que sanara a su hijo. Jesús le dijo que todo es posible al que cree. El hombre respondió con una de las oraciones más honestas de la Biblia: "Creo, pero ayúdame en mi poca fe." Jesús no lo rechazó — sanó a su hijo.',
+        cita: '«Creo; ayuda mi incredulidad.»\n— Marcos 9:24',
+      },
+      {
+        titulo: 'La fe se ejercita con acción',
+        texto:
+          'La fe no crece solo meditando — crece actuando. Cada vez que obedeces aunque no entiendes, cada vez que confías aunque tienes miedo, cada vez que das aunque te cuesta, la fe se fortalece. La inacción la atrofia.',
+        cita: '«La fe sin obras está muerta.»\n— Santiago 2:17',
+      },
+    ],
+    conclusion:
+      'La fe no es un sentimiento que llega de repente ni un don que algunos tienen y otros no. Es una convicción que se alimenta con la Palabra, se prueba en las dificultades, se expresa en oración honesta y se fortalece con cada acto de obediencia. No hay atajos — pero sí hay un camino claro.',
+    mensaje:
+      'No esperes tener más fe para empezar a actuar. Actúa con la fe que tienes y verás cómo crece. El padre del niño enfermo tenía fe mezclada con dudas — y Jesús actuó igual. Lo que Dios pide no es fe perfecta, sino fe honesta.',
+  },
+  {
+    id:        '21',
+    emoji:     '⚖️',
+    categoria: 'Fe y vida cotidiana',
+    pregunta:  '¿Cuál es la diferencia entre pecar a sabiendas y pecar por ignorancia?',
+    intro:
+      '¿Tiene el mismo peso moral hacer algo malo sabiendo que está mal, que hacerlo sin saber que lo es? La Biblia tiene una respuesta sorprendentemente clara — y más matizada de lo que parece.',
+    puntos: [
+      {
+        titulo: 'El Antiguo Testamento distinguía ambos casos',
+        texto:
+          'La Ley de Moisés tenía ofrendas distintas para los pecados involuntarios. Para el que pecaba "con soberbia" (a sabiendas), no había expiación disponible en el mismo nivel — era una ofensa directa contra Dios.',
+        cita: '«El alma que pecare por ignorancia ofrecerá... para ser perdonada. Mas la persona que hiciera algo con soberbia, al Señor provoca; esa persona será cortada de en medio de su pueblo.»\n— Números 15:27-30',
+      },
+      {
+        titulo: 'Jesús: la responsabilidad es proporcional al conocimiento',
+        texto:
+          'Jesús enseñó que quien conoce la voluntad de Dios y no la hace recibirá más corrección que quien actuó sin saber. El conocimiento trae responsabilidad. Esto no es injusto — es coherente con cualquier sistema de justicia.',
+        cita: '«Aquel siervo que conociendo la voluntad de su señor, no se preparó, ni hizo conforme a su voluntad, recibirá muchos azotes. Mas el que sin conocerla hizo cosas dignas de azotes, recibirá pocos.»\n— Lucas 12:47-48',
+      },
+      {
+        titulo: 'Santiago: saber y no hacer ya es pecado',
+        texto:
+          'Santiago va más lejos: el que sabe lo que debe hacer y no lo hace, comete pecado de omisión. El conocimiento nos quita la excusa de la ignorancia.',
+        cita: '«Al que sabe hacer lo bueno, y no lo hace, le es pecado.»\n— Santiago 4:17',
+      },
+      {
+        titulo: 'La ignorancia invencible vs. la ignorancia culpable',
+        texto:
+          'La teología moral distingue dos tipos: la ignorancia invencible (genuinamente no podías saber, no tuviste acceso a la información) reduce la culpa moral. La ignorancia culpable (no quisiste saber para no rendir cuentas) no exime — aumenta la responsabilidad.',
+      },
+      {
+        titulo: 'La misericordia de Dios alcanza a ambos',
+        texto:
+          'Jesús en la cruz oró: "Padre, perdónalos, porque no saben lo que hacen." La ignorancia genuina puede ser objeto de misericordia divina. Pero no es una salida que se pueda fabricar artificialmente.',
+        cita: '«Padre, perdónalos, porque no saben lo que hacen.»\n— Lucas 23:34',
+      },
+    ],
+    conclusion:
+      'Pecar a sabiendas tiene mayor peso moral que pecar por ignorancia — la Biblia lo enseña con claridad. Pero la ignorancia no elimina automáticamente la responsabilidad: depende de si fue honesta o si fue buscada para no rendir cuentas. El conocimiento de Dios y su voluntad es un don que viene con responsabilidad.',
+    mensaje:
+      'El conocimiento es responsabilidad. Cuanto más sabes de Dios y de su voluntad, más se te pedirá. Eso no debería asustarte — debería motivarte a actuar con lo que ya sabes hoy, sin esperar saber todo para empezar a obedecer.',
+  },
+  {
+    id:        '22',
+    emoji:     '💑',
+    categoria: 'Fe y vida cotidiana',
+    pregunta:  '¿Qué dice la Biblia sobre la unión libre?',
+    intro:
+      'En muchos países la mayoría de las parejas conviven antes de casarse o en lugar de casarse. ¿Qué dice la Biblia al respecto? La respuesta va más al fondo de lo que parece.',
+    puntos: [
+      {
+        titulo: 'El diseño original: una sola carne con pacto',
+        texto:
+          'Desde el Génesis, la Biblia no separa la unión sexual del pacto matrimonial. "Dejará el hombre a su padre y a su madre" implica un acto público de compromiso. "Se unirá a su mujer" implica fidelidad. "Serán una sola carne" implica intimidad total. Los tres elementos van juntos.',
+        cita: '«Por tanto, dejará el hombre a su padre y a su madre, y se unirá a su mujer, y serán una sola carne.»\n— Génesis 2:24',
+      },
+      {
+        titulo: 'Hebreos 13:4 — el lecho matrimonial',
+        texto:
+          'El Nuevo Testamento es directo: el matrimonio es honorable y el lecho sin mancha — pero a quienes no están en ese marco les espera el juicio de Dios. La distinción bíblica no es entre parejas estables e inestables, sino entre matrimonio y todo lo demás.',
+        cita: '«Honroso sea en todos el matrimonio, y el lecho sin mancilla; pero a los fornicarios y a los adúlteros los juzgará Dios.»\n— Hebreos 13:4',
+      },
+      {
+        titulo: 'La palabra "porneia"',
+        texto:
+          'El Nuevo Testamento usa el término griego "porneia" para referirse a toda actividad sexual fuera del matrimonio — incluyendo la convivencia sin compromiso formal. Aparece en los evangelios, en Pablo y en el Apocalipsis como algo que el creyente debe evitar.',
+        cita: '«Huyan de la inmoralidad sexual (porneia). Todos los demás pecados que una persona comete están fuera del cuerpo, pero el que peca sexualmente peca contra su propio cuerpo.»\n— 1 Corintios 6:18',
+      },
+      {
+        titulo: 'La mujer samaritana — verdad y gracia',
+        texto:
+          'Jesús habló con una mujer que había tenido cinco maridos y vivía con alguien sin casarse. No la condenó — la trató con plena dignidad. Pero sí nombró la realidad tal como era. Le ofreció agua de vida. Verdad y gracia juntas: eso es el estilo de Jesús.',
+        cita: '«Bien has dicho: No tengo marido; porque cinco maridos has tenido, y el que ahora tienes no es tu marido.»\n— Juan 4:17-18',
+      },
+    ],
+    conclusion:
+      'La Biblia es clara: el diseño de Dios para la unión sexual es el matrimonio — un pacto público, exclusivo y permanente. La unión libre no cumple ese estándar según la enseñanza bíblica. El tono, sin embargo, no es de condena sino de invitación: a un amor más profundo, más comprometido y más parecido al amor de Dios.',
+    mensaje:
+      'Dios no inventó el matrimonio para complicarte la vida — lo inventó porque sabe que el amor verdadero pide entrega total. El compromiso no limita el amor, lo libera. Cuando dices "para siempre", estás imitando la forma en que Dios te ama a ti.',
+  },
+  {
+    id:        '23',
+    emoji:     '🌍',
+    categoria: 'Fe y vida cotidiana',
+    pregunta:  '¿Qué dice la Biblia sobre las demás religiones?',
+    intro:
+      '¿Reconoce la Biblia otras religiones? ¿Pueden ser válidas? ¿Puede alguien salvarse fuera del cristianismo? Estas preguntas tocan uno de los debates más profundos de la fe y merecen una respuesta honesta.',
+    puntos: [
+      {
+        titulo: 'Jesús: "Yo soy el camino"',
+        texto:
+          'Esta es la declaración más exclusiva de Jesús. No dice que sea uno de varios caminos posibles. Dice que nadie llega al Padre sino por Él. Esta exclusividad es parte central del mensaje cristiano — no se puede suavizar sin cambiar lo que Jesús dijo.',
+        cita: '«Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí.»\n— Juan 14:6',
+      },
+      {
+        titulo: 'Hechos 4:12 — un solo nombre',
+        texto:
+          'Pedro ante el Sanedrín fue igualmente directo: no hay otro nombre en el cielo ni en la tierra por el cual los seres humanos puedan ser salvos. El apóstol no estaba siendo arrogante — estaba siendo fiel a lo que había visto y vivido.',
+        cita: '«Y en ningún otro hay salvación; porque no hay otro nombre bajo el cielo, dado a los hombres, en que podamos ser salvos.»\n— Hechos 4:12',
+      },
+      {
+        titulo: 'Pablo en Atenas — Dios y los que buscan',
+        texto:
+          'En Hechos 17, Pablo no condena a los griegos por adorar dioses distintos. Empieza reconociendo su búsqueda: "Al Dios no conocido que adoráis, yo os lo anuncio." Ve en ellos una búsqueda sincera. Dios está cerca de quienes le buscan, aunque aún no lo conozcan por nombre.',
+        cita: '«Porque en él vivimos, y nos movemos, y somos; como algunos de vuestros propios poetas también han dicho: Porque linaje suyo somos.»\n— Hechos 17:28',
+      },
+      {
+        titulo: 'Romanos 2 — la ley escrita en el corazón',
+        texto:
+          'Pablo enseña que personas que nunca oyeron el Evangelio tienen la ley moral escrita en el corazón. Esto abre espacio teológico para pensar en cómo Dios puede alcanzar a quienes genuinamente no tuvieron acceso a Cristo — sin cancelar la exclusividad de la salvación en Él.',
+        cita: '«Porque cuando los gentiles que no tienen ley, hacen por naturaleza lo que es de la ley... mostrando la obra de la ley escrita en sus corazones.»\n— Romanos 2:14-15',
+      },
+    ],
+    conclusion:
+      'La Biblia afirma que Jesús es el único camino al Padre — eso es central al cristianismo y no puede suavizarse. Pero también muestra un Dios que ve la búsqueda sincera del corazón humano. Los límites exactos de la salvación los pone Dios, no nosotros. Lo que sí es claro es que el cristiano está llamado a compartir esa fe con amor y respeto, no con arrogancia ni desprecio.',
+    mensaje:
+      'La exclusividad de Cristo no es arrogancia — es el amor de Dios que no quiso dejarnos con un mapa incompleto. Él no dijo "hay muchos caminos y espero que encuentres uno." Dijo "Yo soy el camino" — y vino personalmente a buscarte.',
+  },
+  {
+    id:        '24',
+    emoji:     '⛪',
+    categoria: 'Jesús',
+    pregunta:  '¿Cómo saber que la religión católica es la correcta?',
+    intro:
+      'En un mundo con miles de denominaciones y religiones, ¿cómo puede alguien saber cuál es la verdadera? Esta pregunta merece una respuesta seria, histórica y bíblica — no solo emocional.',
+    puntos: [
+      {
+        titulo: 'Jesús fundó una Iglesia con liderazgo visible',
+        texto:
+          'Jesús no solo dejó un libro — fundó una comunidad con estructura de liderazgo visible. Eligió a los doce apóstoles, y a Pedro le dio un papel especial. La Iglesia Católica reclama ser esa comunidad por continuidad directa e ininterrumpida con Pedro.',
+        cita: '«Y yo también te digo, que tú eres Pedro, y sobre esta roca edificaré mi iglesia; y las puertas del Hades no prevalecerán contra ella.»\n— Mateo 16:18',
+      },
+      {
+        titulo: 'La sucesión apostólica',
+        texto:
+          'La Iglesia Católica puede trazar una línea ininterrumpida de obispos desde los apóstoles hasta hoy. Ninguna iglesia protestante puede hacerlo — todas tienen una fecha de fundación en los siglos XVI al XX. Lutero en 1517, Calvino en 1536, Wesley en 1738. La continuidad histórica es un argumento poderoso.',
+      },
+      {
+        titulo: 'Juan 6 — la Eucaristía como criterio',
+        texto:
+          'Jesús dijo "mi carne es verdadera comida y mi sangre es verdadera bebida" en Juan 6. Los primeros cristianos creían en la presencia real de Cristo en la Eucaristía — Ignacio de Antioquía (año 107) y Justino Mártir (año 150) lo confirman. La Iglesia Católica preservó esa fe sin interrupción.',
+        cita: '«El que come mi carne y bebe mi sangre, en mí permanece, y yo en él.»\n— Juan 6:56',
+      },
+      {
+        titulo: 'La Biblia existe gracias a la Iglesia Católica',
+        texto:
+          'El canon bíblico — qué libros están en la Biblia y cuáles no — fue definido por concilios de la Iglesia Católica en los siglos IV y V (Hipona 393, Cartago 397). Quienes usan solo la Biblia para rechazar a la Iglesia Católica están usando un libro que esa misma Iglesia compiló y canonizó.',
+      },
+      {
+        titulo: 'No es solo institución — es encuentro personal',
+        texto:
+          'Al final, ningún argumento histórico o bíblico puede reemplazar el encuentro personal con Cristo dentro de la Iglesia. La pregunta no es solo "¿cuál es verdadera?" sino "¿dónde encuentro a Dios vivo en mi vida?" La fe nace cuando los argumentos se convierten en experiencia.',
+        cita: '«Venid y ved.»\n— Juan 1:39',
+      },
+    ],
+    conclusion:
+      'La Iglesia Católica tiene argumentos históricos, bíblicos y teológicos sólidos para su reclamo de continuidad con la Iglesia fundada por Cristo. La sucesión apostólica, la Eucaristía y la canonización de la Biblia son los pilares más fuertes. Pero la fe no se agota en argumentos — culmina en un encuentro personal con Cristo.',
+    mensaje:
+      'La fe no es el resultado de ganar un debate — es el resultado de encontrarte con Cristo. La Iglesia Católica es la más antigua, la más documentada y la más extendida de la historia. Pero lo más importante no es tener razón sobre la institución — es conocer al Señor que la fundó y que te busca a ti.',
+  },
 ]
 
 function buildTexto(p: Pregunta): string {
